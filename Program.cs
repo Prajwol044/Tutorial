@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TigerSoccerClub
+namespace Tbarcelona
 {
     class Program
     {
@@ -28,7 +28,7 @@ namespace TigerSoccerClub
             String Name = "";
             String Registration = "";
             String Jersey = "";
-            int initalamt_kids = 150;
+            int initalamt_kids = 140;
             int initalamt_adult = 230;
 
             //these lines of codes are for aligning items to center and contains heading portion
